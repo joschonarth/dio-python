@@ -1,6 +1,10 @@
 # 📊 Análise de Dados com Python 🐍 e Pandas 🐼
 
-Este repositório contém materiais e códigos relacionados às aulas de Análise de Dados com Python e Pandas. O conteúdo foi desenvolvido para ensinar os fundamentos da linguagem Python e como aplicar essas habilidades na análise de dados utilizando a biblioteca Pandas.
+Este repositório reúne os materiais e exercícios que desenvolvi durante as aulas de **Análise de Dados com Python e Pandas** da [DIO](https://www.dio.me/). Aqui, aplico os conceitos aprendidos, como os fundamentos de Python e o uso da biblioteca Pandas, em diversas atividades práticas voltadas para a análise de dados. 
+
+O objetivo é consolidar os conhecimentos adquiridos, utilizando Python para manipulação de dados, visualização de informações e exploração de diferentes tipos de datasets.
+
+## 📚 Tópicos Abordados
 
 ## 📚 Tópicos Abordados
 
@@ -25,5 +29,3 @@ Este repositório contém materiais e códigos relacionados às aulas de Anális
 - Jupyter Notebook 📓
 
 ---
-
-*Desenvolvido como parte das aulas de Análise de Dados com Python.*
