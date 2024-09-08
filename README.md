@@ -4,7 +4,7 @@ Este repositório reúne os materiais e exercícios que desenvolvi durante as au
 
 O objetivo é consolidar os conhecimentos adquiridos, utilizando Python para manipulação de dados, visualização de informações e exploração de diferentes tipos de datasets.
 
-## 📚 Tópicos Abordados
+---
 
 ## 📚 Tópicos Abordados
 
@@ -21,6 +21,8 @@ O objetivo é consolidar os conhecimentos adquiridos, utilizando Python para man
 - **📉 Visualização de Dados:** Técnicas de visualização de dados utilizando a biblioteca `matplotlib`.
 - **🔍 Análise Exploratória:** Técnicas de exploração inicial dos dados para obter insights e entender padrões.
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Python 🐍
@@ -29,3 +31,5 @@ O objetivo é consolidar os conhecimentos adquiridos, utilizando Python para man
 - Jupyter Notebook 📓
 
 ---
+
+*Este repositório foi desenvolvido como parte do meu aprendizado em Análise de Dados com Python.*
